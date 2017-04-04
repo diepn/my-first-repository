@@ -1,0 +1,2 @@
+# Ignore all SPLite databases
+db/*.sqlite3
